@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lastropy
-- 👀 I’m interested in Coding, Singing and Learning a LOTTT!!!!
+- 👀 I’m interested in Coding, Learning a LOTTT!!!!
 - 🌱 I’m currently learning Web Dev!!
 - 💞️ I’m looking to collaborate on Algos, Dev and anything Comp SCI!
 
