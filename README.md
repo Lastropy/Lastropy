@@ -1,8 +1,7 @@
-👋 Hi, I’m Shivam Shukla (Lastropy) ✨✨
-🙏 Welcome to my GitHub Profile Page 😊
+👋 Hi, I’m Shivam Shukla
 
 Who Am I? 🤔 
-- 🔥 Software Developer - 1 at Deloitte India with 2+ years of experience
+- 🔥 Software Developer - 1 at Staple.ai (Ex-Deloitte) with 3+ years of experience
 - 🧠 LeetCode Contest rating of 1841, with 700+ DSA problems solved
 - ✅ Proficient in Node.js, React.js, TypeScript, and PostgreSQL
 - 🔥 Proven ability to build scalable software solutions and tackle complex problems
